@@ -5,3 +5,7 @@ To pull the commits from github : git pull origin branch_name
 fetch : check the changes from central
 if changes are present then we will merge to local
 To fetch the changes from github : git fetch origin branch_name
+
+
+hi iam a devops engineer
+this code is from github
