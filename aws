@@ -1,4 +1,4 @@
-ush multiple branches at a time : git push -u origin branch1 branch2 branch3
+push multiple branches at a time : git push -u origin branch1 branch2 branch3
 To push all branches at a time : git push -u origin --all
 To know what are the repo that we connected to github : git remote -v
 To pull the commits from github : git pull origin branch_name
